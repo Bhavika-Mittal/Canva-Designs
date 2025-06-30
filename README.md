@@ -4,8 +4,6 @@
 
 This repository contains links to my original Canva designs created to help with personal productivity, organization, and self-improvement. These templates are useful for daily, weekly, and monthly planning, as well as tracking habits, expenses, and junk food consumption.
 
-Feel free to use or customize them for your own routine!
-
 📝 Available Templates
 
 Daily Planner 1 — https://www.canva.com/design/DAGr1yDG-AI/mxaZ1nEAilrRBOXM-aQH6Q/edit?utm_content=DAGr1yDG-AI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
